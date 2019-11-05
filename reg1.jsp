@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>Register</h1>
-	<form action="register" method="post">
+	<form action="reg_app" method="post">
 		Username<br>
 		<input type="text" name="username" />
 		<br>
