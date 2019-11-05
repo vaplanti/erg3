@@ -4,7 +4,7 @@
 <title> Login </title>
 </head>
 <body>
-<form action="login" method="post">
+<form action="log_app" method="post">
 		
 				Username<br>
 				<input type="text" name="username" />
